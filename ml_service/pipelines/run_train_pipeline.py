@@ -3,6 +3,7 @@ from azureml.core import Experiment, Workspace
 import argparse
 from ml_service.util.env_variables import Env
 
+# CI test
 
 def main():
 
